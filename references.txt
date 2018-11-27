@@ -17,5 +17,3 @@ Potter
 Donald Duck
 
 John
-
-Good
